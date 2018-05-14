@@ -1,0 +1,21 @@
+{
+  "name": "groups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.0",
+    "hyperapp": "^1.2.5",
+    "picostyle": "^1.0.2",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "hyperapp-devtools": "^0.3.0",
+    "lodash-es": "^4.17.10"
+  }
+}
